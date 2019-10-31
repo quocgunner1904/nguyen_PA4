@@ -1,0 +1,8 @@
+Hi 3
+Hello 3
+Goodmorning 2
+Love 2
+Gamer 2
+Goodbye 2
+Bye 2
+Goobye 1
